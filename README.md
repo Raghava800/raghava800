@@ -52,7 +52,7 @@
 
 ## **Achievements**  
 - **Deloitte Applause Award**: Recognized for outstanding ownership in delivering Data Lake tasks, defect resolution, and proactive updates.  
-- Delivered high-quality results in multiple POCs, improving client satisfaction and project timelines.  
+
 
 ---
 
