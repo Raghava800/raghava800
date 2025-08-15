@@ -3,7 +3,7 @@
 ---
 
 # SAI RAGHAVENDRA MUPPAVARAM  
-**Data Engineer | 5+ Years of Experience**  
+**Data Engineer | 3+ Years of Experience**  
 
 📞 **Phone:** +91 8008023852  
 📧 **Email:** raghavendramuppavaram@gmail.com  
@@ -39,14 +39,6 @@
 - Spearheaded AIR Recon DL enrichment, improving MRI image quality by 25% and reducing scan times by 30%.  
 - Automated data transformation and loading using AWS Glue and Lambda, enhancing data quality by 20%.  
 - Implemented data quality checks, increasing data accuracy by 15%.  
-
-### **Software Developer** | **Techtion Innovation LLP**  
-*Incremental Ingestion Pipeline – Tank Level & Monitoring Data*  
-**10/19 – 07/21**  
-- Developed an Android app for water tank management, automating cleaning, scheduling, and motor control; achieved 95% user satisfaction and managed 100+ operations monthly.  
-- Designed a ground control station for drone operations using C++ and QT Creator, enabling live streaming with AWS Kinesis.  
-- Improved drone landing accuracy by 85% using Python, OpenCV, and Aruco Markers.  
-- Deployed TensorFlow models for object detection on drones, enhancing remote monitoring capabilities.  
 
 ---
 
